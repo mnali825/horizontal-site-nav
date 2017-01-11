@@ -1,0 +1,26 @@
+ html {
+    background: url(../img/party.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+
+.parallax-container {
+      height: 750px;
+}
+
+.section {
+  height:500px;
+}
+
+.poem {
+  background-color: black;
+  color:white;
+  padding: 8px;
+}
+
+.poemContainer h1, p {
+  padding: 5px;
+}
+
+.poemContainer p {
+  font-size: 1.3em;
+}
